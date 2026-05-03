@@ -1,0 +1,3 @@
+MAX_SPEED = 20.0
+SAFE_TTC = 3.0
+DT = 0.1
